@@ -1,11 +1,14 @@
-## Hi there! 👋 I'm [PURUSHOTTAM KUMAR DAS]
+## Hi there! 👋 I'm PURUSHOTTAM KUMAR DAS
 🌐 MERN Stack Developer | Full-Stack Enthusiast | Open Source Contributor
 
 Welcome to my GitHub profile! I am a passionate full-stack developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building dynamic, responsive, and scalable web applications that solve real-world problems
 
-📫 Get in Touch
-Email: your-email@example.com
-LinkedIn: Your LinkedIn Profile
+## 📫 Get in Touch
+Email: phy121629@gmail.com
+LinkedIn: https://leetcode.com/u/PKD29
+
+## Languages and Tools
+c++, react
 
 
 <!--
