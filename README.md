@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there! 👋 I'm [PURUSHOTTAM KUMAR DAS]
+🌐 MERN Stack Developer | Full-Stack Enthusiast | Open Source Contributor
+
+Welcome to my GitHub profile! I am a passionate full-stack developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building dynamic, responsive, and scalable web applications that solve real-world problems
+
+📫 Get in Touch
+Email: your-email@example.com
+LinkedIn: Your LinkedIn Profile
+
 
 <!--
 **pkd121629/pkd121629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
