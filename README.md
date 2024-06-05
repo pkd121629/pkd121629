@@ -1,5 +1,5 @@
 ## Hi there! 👋 I'm PURUSHOTTAM KUMAR DAS
-🌐 MERN Stack Developer | Full-Stack Enthusiast | Open Source Contributor
+🌐 MERN Stack Developer | Full-Stack Enthusiast 
 
 Welcome to my GitHub profile! I am a passionate full-stack developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building dynamic, responsive, and scalable web applications that solve real-world problems
 
